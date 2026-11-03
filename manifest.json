@@ -1,0 +1,34 @@
+{
+  "mods": [
+    {
+      "name": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
+    },
+    {
+      "name": "CTM-MC1.12.2-1.0.2.31.jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/CTM-MC1.12.2-1.0.2.31.jar",
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
+    },
+    {
+      "name": "CustomNPCs_1.12.2-(01Oct19).jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/CustomNPCs_1.12.2-%2801Oct19%29.jar",
+      "sha256": "cafacade45fb2aa6ac52956487889d0f4a9d4f6a1682ea28a1f7aca1ba100fa1"
+    },
+    {
+      "name": "DynamX-4.2.0-beta-all.jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/DynamX-4.2.0-beta-all.jar",
+      "sha256": "a5b08b1779d6566f497657ad4712ee9c11dd16295a17ee06b0791209cfe3af10"
+    },
+    {
+      "name": "furniture-6.3.2-1.12.2.jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/furniture-6.3.2-1.12.2.jar",
+      "sha256": "f412373512e14b431736ec54f465bf196b81c07939fa484202f457e1c0fbf144"
+    },
+    {
+      "name": "worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+      "sha256": "f7103d2dfb8d8f63e9dff1525359f2b8c6da9cd9e70688037668982b130b704d"
+    }
+  ]
+}
