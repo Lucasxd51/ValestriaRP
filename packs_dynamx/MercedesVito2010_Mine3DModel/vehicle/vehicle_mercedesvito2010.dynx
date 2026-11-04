@@ -1,0 +1,136 @@
+Name: Mercedes Benz Vito 2010
+Description: Model by leTIGREroyal GravierRex3648
+
+EmptyMass: 1950
+DragCoefficient: 0.1
+CenterOfGravityOffset: 0 0.9 0
+MaxVehicleSpeed: 165
+Model: obj/car/mercedesvito2010.obj
+DefaultEngine: MercedesVito2010_Mine3DModel.engine_mercedesvito2010
+DefaultSounds: MercedesVito2010_Mine3DModel.sounds_mercedesvito2010
+AngularDamping: 0.9
+CreativeTabName: Vehicule Mine3DModel
+PlayerStandOnTop: PROGRESSIVE
+MaterialVariants{
+    Variants: Black Blue Green Grey Poste Red
+}
+SteeringWheel{
+    PartName: steeringWheel
+    Position: 0.50547 -0.77445 0.25618
+    BaseRotationQuat: -0.020 0.014 -0.235 0.972
+}
+Shape_core{
+    Scale: 1.040 2.258 1.037
+    Position: 0 0.57613 0.075553
+}
+Shape_core2{
+    Scale: 1.040 0.410 0.766
+    Position: 0 -2.088 -0.2055
+}
+WheelFrontLeft{
+    AttachedWheel: MercedesVito2010_Mine3DModel.wheel_mercedesvito2010
+    IsRight: false
+    Position: 0.90997 -1.6668 -0.57344
+    IsSteerable: True
+    MaxTurn: 0.45
+    DrivingWheel: True
+}
+WheelFrontRight{
+    AttachedWheel: MercedesVito2010_Mine3DModel.wheel_mercedesvito2010
+    IsRight: true
+    Position: -0.91762 -1.6668 -0.57344
+    IsSteerable: True
+    MaxTurn: 0.45
+    DrivingWheel: True
+}
+WheelBackLeft{
+    AttachedWheel: MercedesVito2010_Mine3DModel.wheel_mercedesvito2010
+    IsRight: false
+    Position: 0.90997 1.9609 -0.57344
+    IsSteerable: False
+    MaxTurn: 0.45
+    DrivingWheel: False
+}
+WheelBackRight{
+    AttachedWheel: MercedesVito2010_Mine3DModel.wheel_mercedesvito2010
+    IsRight: true
+    Position: -0.91762 1.9609 -0.57344
+    IsSteerable: false
+    MaxTurn: 0.45
+    DrivingWheel: False
+}
+Seat_Drive{
+    Position: 0.48382 -0.34406 -0.77344
+    Driver: true
+    PlayerSize: 0.865 0.865 0.865
+}
+Seat_one{ 
+    Position: 0.011506 -0.34406 -0.77344
+    Driver: false
+    PlayerSize: 0.865 0.865 0.865
+}
+Seat_two{ 
+    Position: -0.50524 -0.34406 -0.77344
+    Driver: false
+    PlayerSize: 0.865 0.865 0.865
+}
+Light_positionback#Op{
+    LightId: 4
+    PartName: headlight
+    Textures: vito_lighton
+    BlinkSequenceTicks: -1 20
+}	
+Light_stop2#Op{
+    LightId: 6
+    PartName: brake
+    Textures: vito_lighton
+    BlinkSequenceTicks: -1 20
+}
+Light_Turnright#Op{
+    LightId: 3
+    PartName: right
+    Textures: vito_lighton
+    BlinkSequenceTicks: 10 20
+}
+Light_Turnleft#Op{
+    LightId: 2
+    PartName: left
+    Textures: vito_lighton
+    BlinkSequenceTicks: 10 20
+}
+Light_reverse14#Op{
+    LightId: 5
+    PartName: reverse
+    Textures: vito_lighton
+	BlinkSequenceTicks: -1 20
+}
+BasicsAddon#Op{
+	HeadLightsSource: 4
+	BrakeLightsSource: 6
+	TurnSignalLeftLightSource: 2
+	TurnSignalRightLightSource: 3
+	ReverseLightsSource: 5
+	HornSound: horn/car
+}
+Storage{
+    Position: 0 1.454 0.1134
+    Scale: 1 1.346 0.833
+    StorageSize: 36
+}
+FuelTank#Op{
+    Position: 1.0264 -0.039284 -0.38871
+    Scale: 0.061 0.075 0.212
+    TankSize: 72
+    FuelConsumption: 1.3
+}
+ImmatriculationPlate_Front#Op{
+    Position: -0.004067 -2.5224 -0.38928
+    Scale: 0.62 0.004 0.6
+    Rotation: 180 0 180
+    Pattern: @@-%%%-@@
+}
+ImmatriculationPlate_Back#Op{
+    Position: 0.41664 2.783 0.0803
+    Scale: 0.62 0.004 0.6
+    Rotation: 6 0 0
+    Pattern: @@-%%%-@@
