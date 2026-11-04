@@ -25,6 +25,12 @@
       "sha256": "a5b08b1779d6566f497657ad4712ee9c11dd16295a17ee06b0791209cfe3af10"
     },
     {
+      "name": "OptiFine_1.12.2_HD_U_E3.jar",
+      "dir": "mods",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/OptiFine_1.12.2_HD_U_E3.jar",
+      "sha256": "470f5a83a63bb2f0f361b84fe4bfad8423cb54d730f31dbb530d81b05f2d99dd"
+    },
+    {
       "name": "furniture-6.3.2-1.12.2.jar",
       "dir": "mods",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/furniture-6.3.2-1.12.2.jar",
