@@ -1,16 +1,16 @@
 {
   "mods": [
     {
-      "name": "Chisel-MC1.12.2-1.0.2.45.jar",
-      "dir": "mods",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/Chisel-MC1.12.2-1.0.2.45.jar",
-      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
-    },
-    {
       "name": "CTM-MC1.12.2-1.0.2.31.jar",
       "dir": "mods",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/CTM-MC1.12.2-1.0.2.31.jar",
       "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
+    },
+    {
+      "name": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "dir": "mods",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
     },
     {
       "name": "CustomNPCs_1.12.2-(01Oct19).jar",
@@ -47,6 +47,12 @@
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/KabPack_Classic-4.0.dnxpack",
       "sha256": "3575c15f3b31fc5e41e06fe0228df5890b8285f4b0519be979b1f358040405f2"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd.dnxpack",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd.dnxpack",
+      "sha256": "903032ddbef5039fa3fd4290146047ce615d99b1d42769bae904ae40f1221a5f"
     }
   ]
 }
