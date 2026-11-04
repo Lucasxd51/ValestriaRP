@@ -1,0 +1,8 @@
+Name: Calot de la Police Municipale
+Description: Mine3DModel
+CreativeTabName: Police Municipale Pack Mine3D Armor
+
+Model: obj/tenue/pm_calot.obj
+Textures: gardien_titulaire, gardien_principal, brigadier, brigadier_chef, brigadier_chef_principal, chef_de_service_stagiaire, chef_de_service_classe_normale, chef_de_service_classe_superieure, chef_de_service_classe_exceptionnelle, chef_de_police, directeur_stagiaire, directeur
+
+ArmorHead: headModel
