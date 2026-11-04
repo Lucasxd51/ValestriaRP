@@ -37,6 +37,12 @@
       "sha256": "f7103d2dfb8d8f63e9dff1525359f2b8c6da9cd9e70688037668982b130b704d"
     },
     {
+      "name": "DartcherDynamX-BasicPack-4.0.dnxpack",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/DartcherDynamX-BasicPack-4.0.dnxpack",
+      "sha256": "c3ddd6dc9423e91eb4840ebeae2d32c4f18a531323b56ac49b77ef70c7eafb3a"
+    },
+    {
       "name": "KabPack_Classic-4.0.dnxpack",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/KabPack_Classic-4.0.dnxpack",
