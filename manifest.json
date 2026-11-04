@@ -59,12 +59,6 @@
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd.dnxpack",
       "sha256": "903032ddbef5039fa3fd4290146047ce615d99b1d42769bae904ae40f1221a5f"
-    },
-    {
-      "name": "PoliceMunicipaleSlayd.zip",
-      "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd.zip",
-      "sha256": "214ba03ce9307773ffe17776d2e9d6ab34fe45ea96e1cded076e81602c36fe7f"
     }
   ]
 }
