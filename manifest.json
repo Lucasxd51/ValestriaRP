@@ -59,6 +59,18 @@
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/KabPack_Classic-4.0.dnxpack",
       "sha256": "3575c15f3b31fc5e41e06fe0228df5890b8285f4b0519be979b1f358040405f2"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel.dnxpack",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel.dnxpack",
+      "sha256": "81ea173573008fcfbed5e4f0b8b9a75a7546a1484e4fcad8679b7daacb2e1665"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd.dnxpack",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd.dnxpack",
+      "sha256": "903032ddbef5039fa3fd4290146047ce615d99b1d42769bae904ae40f1221a5f"
     }
   ]
 }

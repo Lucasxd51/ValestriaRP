@@ -1,0 +1,8 @@
+Name: Bas Police Municipale
+Description: Mine3DModel
+CreativeTabName: Police Municipale Pack Mine3D Armor
+
+Model: obj/tenue/pm_bas.obj
+
+ArmorFoot: leftFeetModel rightFeetModel
+ArmorLegs: leftLegModel rightLegModel
