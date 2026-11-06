@@ -1,0 +1,8 @@
+Name: Polo manche longue avec Gilet Jaunede la Police Municipale
+Description: Mine3DModel
+CreativeTabName: Police Municipale Pack Mine3D Armor
+
+Model: obj/tenue/pm_pololong_gj.obj
+
+ArmorBody: bodyModel
+ArmorArms: leftArmModel rightArmModel
