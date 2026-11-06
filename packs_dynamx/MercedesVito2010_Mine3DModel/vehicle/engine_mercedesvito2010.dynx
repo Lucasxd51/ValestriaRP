@@ -1,0 +1,65 @@
+Power: 1550
+MaxRPM: 4500
+Braking: 45
+SteeringMethod: 2
+TurnSpeed: 0.14
+
+Point_1{
+    RPMPower: 0 0
+}
+Point_2{
+    RPMPower: 800 0.25
+}
+Point_3{
+    RPMPower: 1200 0.62
+}
+Point_4{
+    RPMPower: 1600 0.92
+}
+Point_5{
+    RPMPower: 2000 1.00
+}
+Point_6{
+    RPMPower: 2400 0.98
+}
+Point_7{
+    RPMPower: 3000 0.86
+}
+Point_8{
+    RPMPower: 3800 0.72
+}
+Point_9{
+    RPMPower: 4200 0.45
+}
+Point_10{
+    RPMPower: 4500 0.10
+}
+
+Gear_0{
+    SpeedRange: 0 -25
+    RPMRange: 800 3500
+}
+Gear_1{
+    SpeedRange: -1000000 1000000
+    RPMRange: 0 4500
+}
+Gear_2{
+    SpeedRange: 0 12
+    RPMRange: 800 2600
+}
+Gear_3{
+    SpeedRange: 12 30
+    RPMRange: 1000 2700
+}
+Gear_4{
+    SpeedRange: 30 55
+    RPMRange: 1100 2800
+}
+Gear_5{
+    SpeedRange: 55 90
+    RPMRange: 1200 3000
+}
+Gear_6{
+    SpeedRange: 90 165
+    RPMRange: 1400 4500
+}
