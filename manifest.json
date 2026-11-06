@@ -61,16 +61,502 @@
       "sha256": "3575c15f3b31fc5e41e06fe0228df5890b8285f4b0519be979b1f358040405f2"
     },
     {
-      "name": "MercedesVito2010_Mine3DModel.dnxpack",
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/lang/en_US.lang",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel.dnxpack",
-      "sha256": "81ea173573008fcfbed5e4f0b8b9a75a7546a1484e4fcad8679b7daacb2e1665"
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/lang/en_US.lang",
+      "sha256": "9674b8c7306d0582b377195287420602e03100082b62575cd5f9863c9dd318f9"
     },
     {
-      "name": "PoliceMunicipaleSlayd.dnxpack",
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010.mtl",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd.dnxpack",
-      "sha256": "903032ddbef5039fa3fd4290146047ce615d99b1d42769bae904ae40f1221a5f"
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010.mtl",
+      "sha256": "f9dec282269ef100c31bf47fb164d7d2a0d586ea6aa8cdac9b15d7b633fbfa42"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_chassis_12.5.0.dc",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_chassis_12.5.0.dc",
+      "sha256": "1fc0d425c58767f3b9afef4290fe1915653e6b137708e35587c20ecd53707f6d"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_wheel.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_wheel.mtl",
+      "sha256": "5371c92b3fbd8264ebe40a2e4149a3fe43af05d445cae98952eff1e34d65d160"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_wheel.obj",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/mercedesvito2010_wheel.obj",
+      "sha256": "0cae43c6211123aa916dd0f57444b68051013147ea3900b215771a914e4e5ec7"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_black.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_black.png",
+      "sha256": "ac9f564cea864a38168c119312ed43e708e485ef029473b9eed5f4348d2ab1ee"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_blue.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_blue.png",
+      "sha256": "7ce6cee05d6b58d53ee3b9d4bbac2d2a49a5c78c5e68854de8247b5137db2f42"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_green.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_green.png",
+      "sha256": "5796bda150b9bb8dca1b2fb2b9d008722061aa87677260bcc9bd8b663809ccfe"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_grey.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_grey.png",
+      "sha256": "1725705837473a78531dffc49e8f99dd65a52fa9d4eca6fa584836773868a524"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_lightoff.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_lightoff.png",
+      "sha256": "b7c99ebe42de102ca3b8ea8ccc25ddfd4a68684226b7ffb7fca8cb015e9c175f"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_lighton.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_lighton.png",
+      "sha256": "c93f1a42166b94a14e0b1406ee443e2434bb742ef1c9c511e6e6459f4ae0dbdc"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_plaque.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_plaque.png",
+      "sha256": "164da657b322276eda8eff7989a1c92a03d5baf818fa9af68c558b9e70abb9c6"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_poste.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_poste.png",
+      "sha256": "ec7067dea45ced340970e9cfd5fed226dd27f184dc835f8273bd2ff3a1e161aa"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_red.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_red.png",
+      "sha256": "8b0e853d584cffbd8596f34d4f0b0dfe309c03e37687ef34537881bb044e90f7"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_secondaire.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_secondaire.png",
+      "sha256": "1f7462b52e03b44a9ea0d3fab4afd29e227dd46288b9163bbc2b773d0f1be9e6"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_white.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/models/obj/car/texture/vito_white.png",
+      "sha256": "931b694c72d07d50fa9b08479b671e604ef2f7372dd7970a363cd2c419770007"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/ext_idle.ogg",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/ext_idle.ogg",
+      "sha256": "84645bfd0a8d9570de6883be07ff0430133147bf0aeb4ee10b1be5155128a94b"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/horn/car.ogg",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/horn/car.ogg",
+      "sha256": "a847cc695b0b897b66d104389396310048a1dc1fb7e4d6353961c42d44654f5f"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/int_idle.ogg",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/int_idle.ogg",
+      "sha256": "2aa0b390bfddddad23b31a8fc54686cbad4711a6a25661d27462232b11b8a306"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/starting.ogg",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/assets/dynamxmod/sounds/starting.ogg",
+      "sha256": "2f04de439cb5ab1032e5a14ee334397cf317fb90d2f4a980f0234c3286ecff93"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/MpsRepositories.dnx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/MpsRepositories.dnx",
+      "sha256": "084b52e20b31c6dc11db290d4ef78d32322a5affd4177c81494f360f086e9b96"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/pack_info.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/pack_info.dynx",
+      "sha256": "6818bd6e6e17f61ec58d1b30fd64137db82071c7ffa4dca11e86886e3094cbec"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/PackFiles.jar",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/PackFiles.jar",
+      "sha256": "f84466e62265e4b264a4eeca4b988f7c080af4f639e5c27800350c9ae8fca4ae"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/vehicle/engine_mercedesvito2010.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/vehicle/engine_mercedesvito2010.dynx",
+      "sha256": "308523e454a45ca03e0ba6f953eb5cd7845f95b43f379b437310b041ad201d5a"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/vehicle/sounds_mercedesvito2010.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/vehicle/sounds_mercedesvito2010.dynx",
+      "sha256": "e2853c07927bbf07672efa6e976e8a2d82618dac7ab4266439a00a03ab7040f7"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/vehicle/vehicle_mercedesvito2010.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/vehicle/vehicle_mercedesvito2010.dynx",
+      "sha256": "95c3190f2f010159ddf652758ccae5477036d4c515e7a4eecbad62e1d0b5a8a7"
+    },
+    {
+      "name": "MercedesVito2010_Mine3DModel/vehicle/wheel_mercedesvito2010.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/vehicle/wheel_mercedesvito2010.dynx",
+      "sha256": "0aefd32d6e03530541771ce1f6fb78637dbbf94ff526d90c878baa5f0d36af54"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_bas.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_bas.dynx",
+      "sha256": "b0810c97980c42b557f2333b68e71c0864c5dc5c6fbb716bfde8ccfc69162954"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_calot.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_calot.dynx",
+      "sha256": "e859bbd96f83799df81c66d5d585105f3e51d71176f093bf5bf79376fd9fdd0c"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt.dynx",
+      "sha256": "873af1eb0fb6b499fb3e31af57bd6d17bfa0f1d9c12af600f289fc37db3b8af3"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc.dynx",
+      "sha256": "3d19a9a5728584cea64dd64995c8c700b26b77a300b488e4e88526e6698addd3"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc_gj.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc_gj.dynx",
+      "sha256": "a802cf2c33c38aa27e747548663888676c033c0e0cf86e36d3294e727cdae8e2"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc_gpb.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt_blanc_gpb.dynx",
+      "sha256": "0823ade846221021983ae03c08a1a1bd62b22b02414fc3108f488916c83f4bfa"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt_gj.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt_gj.dynx",
+      "sha256": "7b739f4b15f6cca7eea7772c77ba261788149c8f13e14eb84ebfc0990ba98fea"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_polocourt_gpb.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_polocourt_gpb.dynx",
+      "sha256": "5e0d31c59156b4362b947f9cf7a55faac7a552a3df6a6b73babe6db8738be693"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong.dynx",
+      "sha256": "a6df217a7da19a03a37697ff880635bb2ee50fe97470ec113d673f2a1b1e2029"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc.dynx",
+      "sha256": "9926b05bf06c1500855a76325325cadba1bf54951eb4760bb7d296bff31685e9"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc_gj.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc_gj.dynx",
+      "sha256": "7639b5aab1bbc48ffe1ef8cf1c212a3b60956908de5993dd93d9ffad3abbb00a"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc_gpb.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong_blanc_gpb.dynx",
+      "sha256": "7e115cabf8dd7dd3389df8292bfb5dcb0a0c6305f6f90e0e04bafc4e4fb9ed16"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong_gj.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong_gj.dynx",
+      "sha256": "bc205f0a7da35a6ff32e5d47720595fe9fe66ab58d34c4374c9084c3f5fd009a"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/armors/armor_pm_pololong_gpb.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/armors/armor_pm_pololong_gpb.dynx",
+      "sha256": "0ac16a01852c714382a28da765c11735c9cf1488cb4fc0d239a0695ab9eb0607"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/lang/en_US.lang",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/lang/en_US.lang",
+      "sha256": "c6e0a35eb522558fad844a22f82df841eb1863736596a044312dfd3aeb8fd243"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_bas.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_bas.mtl",
+      "sha256": "bd4944693ea0e15f6aa9bf1e4099b969157f8e0cc84ef351e9b3df631d664ade"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_calot.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_calot.mtl",
+      "sha256": "d9ed1802a30520ac8ee8c18947195423bc924a3888938681d63d836a4908b591"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt.mtl",
+      "sha256": "32e6a62bb66332f9db3ffdec21a82e1932a7b6246979e20ab41af3a7afe32bf8"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc.mtl",
+      "sha256": "da3dfc8646024de5d48d89ea841d33935493e3646af0f6a391c6d6017f532faf"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc_gj.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc_gj.mtl",
+      "sha256": "624e1affe680698fbc5458d838b5a2de0e75e6c3ed60c535f9e3c1e177c4cf95"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc_gpb.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_blanc_gpb.mtl",
+      "sha256": "84bb14b036ba65ad70196808228e26e49ef7fbded2cd06325a32c0a631301f74"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_gj.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_gj.mtl",
+      "sha256": "a0b869bbff3c2e64431b8f400af97a8610aecd3de1a9c21253b355331c7dc29c"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_gpb.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_polocourt_gpb.mtl",
+      "sha256": "55e0c9334b622c5077607942a8a07fa93ccd73c5bd522af96ac0412ceb1bbaea"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong.mtl",
+      "sha256": "9a9b0bf57d776a145df7c7192a391f77207a33a12af97ce1c496cc556ec73420"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc.mtl",
+      "sha256": "3a34c52a00733e322c13dddb8ed61cfea96d8aed19ab3fd429dd344e7907e28c"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc_gj.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc_gj.mtl",
+      "sha256": "d740b836a84b4c7c3d398b142f29e424d4e6f82f1de670ba2da2786bf344ef05"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc_gpb.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_blanc_gpb.mtl",
+      "sha256": "ba0c5bd53fa9a0bb9e9a805725b18470c02c8e6d62a901a1146951bd4506c857"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_gj.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_gj.mtl",
+      "sha256": "33cedee7d8a177dcf0a64b386766cd6005b24bbf415e8f8de8521b7b84f9804c"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_gpb.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/pm_pololong_gpb.mtl",
+      "sha256": "9acc414bbb430d0b8d143682aac7c52473b279be06e74d3a22aaca6a459c292c"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier.png",
+      "sha256": "e77c0f2267cc76d061dd33259fa466f2d8c34528cef830b231660cf3f39febbb"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier_chef.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier_chef.png",
+      "sha256": "93f9b751415eeed5821bee9dfb51995d722429da9db6e3089e786cba7cb43580"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier_chef_principal.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_brigadier_chef_principal.png",
+      "sha256": "62a9d6721dbd78ffd339d43f24db678d7497e983ac1c89a0a1a9d4daf08a1834"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_police.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_police.png",
+      "sha256": "2f712cd8935f925b0974885c47323901db9983874d7bd9bbe5b6ede0369dbb0f"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_exceptionnelle.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_exceptionnelle.png",
+      "sha256": "8ef7b7007eb58f7f385a5816ced9d0e7ac7615fe5c1e02ab7dd2b7f31f7acd09"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_normale.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_normale.png",
+      "sha256": "4f6888ab11c2fe90e50909e4126f0a0e61beebbeda4c3a7306737c0214874a42"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_superieure.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_superieure.png",
+      "sha256": "0000b84f7515da47e5e3edc858bfbd29c7d80cf9e2985417b8b951c56afc8aa6"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_sup\u00e9rieure.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_classe_sup%C3%A9rieure.png",
+      "sha256": "0000b84f7515da47e5e3edc858bfbd29c7d80cf9e2985417b8b951c56afc8aa6"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_stagiaire.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_chef_de_service_stagiaire.png",
+      "sha256": "b192487d00393e597ae859330e018cb1c388a17201222b6d6f0a17f63139fed5"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_directeur.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_directeur.png",
+      "sha256": "bbf62a4110a91cf51533dbda8f91dc743387347802fd2f20bc217efe8728da35"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_directeur_stagiaire.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_directeur_stagiaire.png",
+      "sha256": "b0ddd9cf164a26886fb7c9b14bc4b793bb6f6a24ea07bb6cce722a0926573f7a"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_principal.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_principal.png",
+      "sha256": "0040f2180e7bab91553d9b36dbf2f052b23340c26e58837a352e8729ad84bfc3"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_stagiaire.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_stagiaire.png",
+      "sha256": "19fe808f3c807bb4c600eef28b54bd29ccabedd278d4e5b7013c98195e1f5adc"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_titulaire.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/grade_pm/pm_gardien_titulaire.png",
+      "sha256": "272ae672f5945840ab8bb4a381d21706fee48b54802de90dc2582512824bcc71"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_calot.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_calot.png",
+      "sha256": "38d2247544df2df89fd840000adc0d6c487cb6cf9fe83c905dc1cbf1863b4422"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gilet_patch.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gilet_patch.png",
+      "sha256": "806bd14b817bdde0990d205b5613dcb5c72f3d6a241f114201fc5c75acddbdbc"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gj.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gj.png",
+      "sha256": "fcc94a67fbdd2cf821bbbac7ee92131adbca50e0db96912d60e5ef1d82596952"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gj_texte.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gj_texte.png",
+      "sha256": "a84dff4c52908b2f632ece76c83a85ddbaf6aebd25b0ae7c7e37f00c3998ecf5"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gpb.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_gpb.png",
+      "sha256": "4c22ca8b03feb87a1089bf91c25faaff8fe5d094690d9bceaa05ae8eac5271fb"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_logo.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_logo.png",
+      "sha256": "bddad39d0a4eb6cc676f2e069147acaaab204db3088953e4ea83305eb0b7d165"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_pantalon.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_pantalon.png",
+      "sha256": "2e48dfaa8c809f1b12e4b17427fd2b01d977b995b2ea58319bd44093d0f83ded"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_polo.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_polo.png",
+      "sha256": "6e1ec19086b5ddf74e5fdfe212862876e2908d6b5a67d36e918c87cb0da1cdee"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_polo_blanc.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_polo_blanc.png",
+      "sha256": "b89876e896096f6d43464200595ae59003ff3dc1d8a83fa16fd3a3a82483e125"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_text.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/assets/dynamxmod/models/obj/tenue/texture/pm_text.png",
+      "sha256": "041fdd95ac8cb70de5e66cc61cf81a90378a1e2b07785041d894d8ad3ca04684"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/MpsRepositories.dnx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/MpsRepositories.dnx",
+      "sha256": "dde4ef3ebcf144ced74a7c2d6ae6111d360bdbd4c5b7d0add9de0ff95fac2cea"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/pack_info.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/pack_info.dynx",
+      "sha256": "bf7cd0f542a92021d12395b55513bba8c7e9f30a0aea0a23680e161d9c47e5f3"
+    },
+    {
+      "name": "PoliceMunicipaleSlayd/PackFiles.jar",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/PoliceMunicipaleSlayd/PackFiles.jar",
+      "sha256": "1bf08f672cf5d73a49c90ef6b1358bda53605ab7c5b7cfa00f333de989c29fdf"
     }
   ]
 }
