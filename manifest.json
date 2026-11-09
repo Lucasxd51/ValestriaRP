@@ -37,6 +37,12 @@
       "sha256": "9db76208cde2a5bb22ded22a19de6aa6a7d3cfb5f997b79ec84140048c0440ce"
     },
     {
+      "name": "Schematica-1.12.2-1.8.0.169-universal.jar",
+      "dir": "mods",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/Schematica-1.12.2-1.8.0.169-universal.jar",
+      "sha256": "7f2642cdc85c32ec754914e77f5bad11976c7c9c51d296e0ae4a8428d01153e8"
+    },
+    {
       "name": "furniture-6.3.2-1.12.2.jar",
       "dir": "mods",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/furniture-6.3.2-1.12.2.jar",
