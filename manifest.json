@@ -25,6 +25,12 @@
       "sha256": "a5b08b1779d6566f497657ad4712ee9c11dd16295a17ee06b0791209cfe3af10"
     },
     {
+      "name": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+      "dir": "mods",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+      "sha256": "67c5e8d8e975172d838f765040130ea0f73ec7a590b4470217a2f5516fdc652b"
+    },
+    {
       "name": "OptiFine_1.12.2_HD_U_E3.jar",
       "dir": "mods",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/OptiFine_1.12.2_HD_U_E3.jar",
