@@ -55,6 +55,12 @@
       "sha256": "f412373512e14b431736ec54f465bf196b81c07939fa484202f457e1c0fbf144"
     },
     {
+      "name": "valestriarp-1.0.jar",
+      "dir": "mods",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/valestriarp-1.0.jar",
+      "sha256": "9b66b15109ae0552a5de8a17a9dbd9bd99bc3e59e00ea765b97b9b13d339b61e"
+    },
+    {
       "name": "worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
       "dir": "mods",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/mods_server/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
