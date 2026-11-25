@@ -1,0 +1,65 @@
+Name: Garbage Truck
+Description: Camion poubelle RP (cityRP)
+Model: obj/garbage_truck/garbage_truck.obj
+Textures:
+  default: garbage_truck.png
+
+Hitbox:
+  Position: 0 1.65 -0.24
+  Size: 3.1 3.3 7.75
+
+Wheels:
+  - PartName: wheel_front_left
+    Position: 1.2 0.55 2.35
+    Radius: 0.55
+    Width: 0.46
+    Steerable: true
+  - PartName: wheel_front_right
+    Position: -1.2 0.55 2.35
+    Radius: 0.55
+    Width: 0.46
+    Steerable: true
+  - PartName: wheel_rear_left
+    Position: 1.2 0.55 -1.6
+    Radius: 0.55
+    Width: 0.46
+    Steerable: false
+  - PartName: wheel_rear_right
+    Position: -1.2 0.55 -1.6
+    Radius: 0.55
+    Width: 0.46
+    Steerable: false
+
+Seats:
+  - PartName: seat_driver
+    Position: 0.6 1.5 1.975
+    Driver: true
+  - PartName: seat_passenger_front
+    Position: -0.6 1.5 1.975
+    Driver: false
+  - PartName: seat_passenger_crew
+    Position: 0 1.5 1.975
+    Driver: false
+
+SteeringWheel:
+  PartName: steering_wheel
+  RotationPoint: 0.6 2.05 2.68
+  Axis: 0 0 1
+  MaxAngle: 270
+
+SubParts:
+  - PartName: tailgate
+    RotationPoint: 0 3 -3.55
+    Axis: 1 0 0
+    Range: 0 70
+
+Storage:
+  Slots: 8
+
+Engine:
+  MaxSpeed: 80
+  Acceleration: 4.0
+  Braking: 6.0
+  MaxReverseSpeed: 20
+
+CenterOfMass: 0 0.8 -0.3
