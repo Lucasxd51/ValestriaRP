@@ -1,65 +1,75 @@
-Name: Garbage Truck
-Description: Camion poubelle RP (cityRP)
-Model: obj/garbage_truck/garbage_truck.obj
-Textures:
-  default: garbage_truck.png
+{
+	PackName: dumpster_car,
+	Name: garbage_truck,
+	Description: Camion poubelle RP,
+	Model: obj/garbage_truck/garbage_truck.obj,
 
-Hitbox:
-  Position: 0 1.65 -0.24
-  Size: 3.1 3.3 7.75
+	Textures
+	{
+		Name: default,
+		Path: texture/garbage_truck.png,
+	}
 
-Wheels:
-  - PartName: wheel_front_left
-    Position: 1.2 0.55 2.35
-    Radius: 0.55
-    Width: 0.46
-    Steerable: true
-  - PartName: wheel_front_right
-    Position: -1.2 0.55 2.35
-    Radius: 0.55
-    Width: 0.46
-    Steerable: true
-  - PartName: wheel_rear_left
-    Position: 1.2 0.55 -1.6
-    Radius: 0.55
-    Width: 0.46
-    Steerable: false
-  - PartName: wheel_rear_right
-    Position: -1.2 0.55 -1.6
-    Radius: 0.55
-    Width: 0.46
-    Steerable: false
+	Shape
+	{
+		shapeYOffset: 1.65,
+		Width: 3.1,
+		Height: 3.3,
+		Length: 7.75,
+	}
 
-Seats:
-  - PartName: seat_driver
-    Position: 0.6 1.5 1.975
-    Driver: true
-  - PartName: seat_passenger_front
-    Position: -0.6 1.5 1.975
-    Driver: false
-  - PartName: seat_passenger_crew
-    Position: 0 1.5 1.975
-    Driver: false
+	Engine
+	{
+		MaxSpeed: 80,
+		ReverseMaxSpeed: 20,
+		Acceleration: 4.0,
+		DecelerationForce: 6.0,
+		TurnSpeed: 1.0,
+		SteerForce: 1.5,
+	}
 
-SteeringWheel:
-  PartName: steering_wheel
-  RotationPoint: 0.6 2.05 2.68
-  Axis: 0 0 1
-  MaxAngle: 270
+	FrontWheel
+	{
+		Radius: 0.55,
+		Width: 0.46,
+		X: 1.2,
+		Y: 0.55,
+		Z: 2.35,
+	}
 
-SubParts:
-  - PartName: tailgate
-    RotationPoint: 0 3 -3.55
-    Axis: 1 0 0
-    Range: 0 70
+	RearWheel
+	{
+		Radius: 0.55,
+		Width: 0.46,
+		X: 1.2,
+		Y: 0.55,
+		Z: -1.6,
+	}
 
-Storage:
-  Slots: 8
+	Seat
+	{
+		Name: seat_driver,
+		X: 0.6,
+		Y: 1.5,
+		Z: 1.975,
+		Driver: 1,
+	}
 
-Engine:
-  MaxSpeed: 80
-  Acceleration: 4.0
-  Braking: 6.0
-  MaxReverseSpeed: 20
+	Seat
+	{
+		Name: seat_passenger_front,
+		X: -0.6,
+		Y: 1.5,
+		Z: 1.975,
+		Driver: 0,
+	}
 
-CenterOfMass: 0 0.8 -0.3
+	Seat
+	{
+		Name: seat_passenger_crew,
+		X: 0.0,
+		Y: 1.5,
+		Z: 1.975,
+		Driver: 0,
+	}
+}

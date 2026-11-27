@@ -79,40 +79,46 @@
       "sha256": "3575c15f3b31fc5e41e06fe0228df5890b8285f4b0519be979b1f358040405f2"
     },
     {
-      "name": "dumpster_car/garbage_truck.spec.json",
+      "name": "dumpster_car/assets/dynamxmod/lang/en_US.lang",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/garbage_truck.spec.json",
-      "sha256": "46fcd18b5922b2e8a608ee414a243a36f9d540e5d593f381c39481ad3e2abf5f"
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/assets/dynamxmod/lang/en_US.lang",
+      "sha256": "637def59165a90c84c2d4c7468ac4892a9d2de223b0b62a8f6d2b6bdb8bba806"
     },
     {
-      "name": "dumpster_car/obj/garbage_truck/garbage_truck.mtl",
+      "name": "dumpster_car/assets/dynamxmod/lang/fr_FR.lang",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/obj/garbage_truck/garbage_truck.mtl",
-      "sha256": "605fc85be0c1e185c92e53d8f62217707efcb8d4e2c64f9941f324fdb3d8eae5"
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/assets/dynamxmod/lang/fr_FR.lang",
+      "sha256": "b39d81b2085743cba28fceaa4e8daf17832ab1cd26ac13218cf04d622a855057"
     },
     {
-      "name": "dumpster_car/obj/garbage_truck/garbage_truck.obj",
+      "name": "dumpster_car/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.mtl",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/obj/garbage_truck/garbage_truck.obj",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.mtl",
+      "sha256": "fda0600970ea87739bd07408d3527e6945dd67aae2befb595638ec7928f01523"
+    },
+    {
+      "name": "dumpster_car/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.obj",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.obj",
       "sha256": "04cffd6f9ede6c160e77d171650eab80dc1e9c59f6b76bd81fe0437fae41666e"
     },
     {
-      "name": "dumpster_car/obj/garbage_truck/garbage_truck.png",
+      "name": "dumpster_car/assets/dynamxmod/models/obj/garbage_truck/texture/garbage_truck.png",
       "dir": "DynamX",
-      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/obj/garbage_truck/garbage_truck.png",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/assets/dynamxmod/models/obj/garbage_truck/texture/garbage_truck.png",
       "sha256": "ba428448c88fa7e7c54891727224da66ce3f3ea12c4fa20cb8ae0c9777fdcf20"
     },
     {
       "name": "dumpster_car/pack_info.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/pack_info.dynx",
-      "sha256": "badcb3407384fd2d233c20b54e016d76a76891d98ca273d7a320077df25aaba7"
+      "sha256": "d812b5bd1b29a5d170bdf925223ad4ee1d9dbce6cdc118b5c446cb95c0c98994"
     },
     {
       "name": "dumpster_car/vehicles/vehicle_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/dumpster_car/vehicles/vehicle_garbage_truck.dynx",
-      "sha256": "e172cf29a4e09d85b07e4c4211b6994f49f1b7bbf92d2e5f9e055306e59f7a1d"
+      "sha256": "c485a83aeddab4f9116e59cc54a65e04f7542a7b780b8d78459f2943cf586157"
     },
     {
       "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/lang/en_US.lang",
