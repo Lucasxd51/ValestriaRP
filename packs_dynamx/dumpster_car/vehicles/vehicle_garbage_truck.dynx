@@ -2,15 +2,16 @@
 	PackName: dumpster_car,
 	Name: garbage_truck,
 	Description: Camion poubelle RP,
+	EmptyMass: 8000,
 	Model: obj/garbage_truck/garbage_truck.obj,
 
-	Textures
+	Textures:
 	{
 		Name: default,
 		Path: texture/garbage_truck.png,
 	}
 
-	Shape
+	Shape:
 	{
 		shapeYOffset: 1.65,
 		Width: 3.1,
@@ -18,7 +19,7 @@
 		Length: 7.75,
 	}
 
-	Engine
+	Engine:
 	{
 		MaxSpeed: 80,
 		ReverseMaxSpeed: 20,
@@ -28,7 +29,7 @@
 		SteerForce: 1.5,
 	}
 
-	FrontWheel
+	FrontWheel:
 	{
 		Radius: 0.55,
 		Width: 0.46,
@@ -37,7 +38,7 @@
 		Z: 2.35,
 	}
 
-	RearWheel
+	RearWheel:
 	{
 		Radius: 0.55,
 		Width: 0.46,
@@ -46,7 +47,7 @@
 		Z: -1.6,
 	}
 
-	Seat
+	Seat:
 	{
 		Name: seat_driver,
 		X: 0.6,
@@ -55,7 +56,7 @@
 		Driver: 1,
 	}
 
-	Seat
+	Seat:
 	{
 		Name: seat_passenger_front,
 		X: -0.6,
@@ -64,7 +65,7 @@
 		Driver: 0,
 	}
 
-	Seat
+	Seat:
 	{
 		Name: seat_passenger_crew,
 		X: 0.0,
