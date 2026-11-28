@@ -1,18 +1,19 @@
-Power: 1250
+// engine_garbage_truck.dynx - valeurs  (tuning)
+Power: 2000
 MaxRPM: 3500
 Braking: 5
+TurnSpeed: 0.05
 Point_0{
-    SpeedRange: 
-    RPMPower: 800 0.5
+    RPMPower: 800 0.6
 }
 Point_1{
-    RPMPower: 1500 0.6
+    RPMPower: 1500 0.8
 }
 Point_2{
-    RPMPower: 2500 0.7
+    RPMPower: 2500 1.0
 }
 Point_3{
-    RPMPower: 3500 0.75
+    RPMPower: 3500 0.9
 }
 Gear_0{
     SpeedRange: 0 -15
@@ -28,7 +29,7 @@ Gear_2{
 }
 Gear_3{
     SpeedRange: 20 45
-    RPMRange: 1150 300
+    RPMRange: 1150 3000
 }
 Gear_4{
     SpeedRange: 40 70

@@ -3,7 +3,7 @@ Model: obj/garbage_truck/garbage_truck_wheel.obj
 Radius: 0.55
 RimRadius: 0.33
 Width: 0.46
-BrakeForce: 1000
+BrakeForce: 500
 Friction: 1.5
 RollInInfluence: 1
 SuspensionMaxForce: 30000
