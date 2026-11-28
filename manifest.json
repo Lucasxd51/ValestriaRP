@@ -112,7 +112,7 @@
       "name": "CityRP/garbage_truck/engine_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/engine_garbage_truck.dynx",
-      "sha256": "6d12afdad533445898d9e9bac82d8d3b20e07c8d8bce675fec3e5dbaa384dae3"
+      "sha256": "6f10fba79a91b2b6ece85094c3d8a35e831ba528c498451157d497f6173e2ca7"
     },
     {
       "name": "CityRP/garbage_truck/vehicle_garbage_truck.dynx",
@@ -274,7 +274,7 @@
       "name": "MercedesVito2010_Mine3DModel/vehicle/engine_mercedesvito2010.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/MercedesVito2010_Mine3DModel/vehicle/engine_mercedesvito2010.dynx",
-      "sha256": "308523e454a45ca03e0ba6f953eb5cd7845f95b43f379b437310b041ad201d5a"
+      "sha256": "d4d3f0bdeaad9aa0dad1a31ba8ffecfaa0727f40af172ec065a154ecec102de8"
     },
     {
       "name": "MercedesVito2010_Mine3DModel/vehicle/sounds_mercedesvito2010.dynx",
