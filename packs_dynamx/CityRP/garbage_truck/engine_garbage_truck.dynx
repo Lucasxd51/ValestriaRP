@@ -1,19 +1,17 @@
 Power: 1250
 MaxRPM: 3500
 Braking: 40
-TurnSpeed: 0.30
-
 Point_0{
-    RPMPower: 0
+    RPMPower: 800 0.5
 }
 Point_1{
-    RPMPower: 850 0.20
+    RPMPower: 1500 0.9
 }
 Point_2{
-    RPMPower: 1750 0.25
+    RPMPower: 2500 1.0
 }
 Point_3{
-    RPMPower: 3500 0.30
+    RPMPower: 3600 0.6
 }
 Gear_0{
     SpeedRange: 0 -20

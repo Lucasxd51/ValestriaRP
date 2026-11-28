@@ -5,7 +5,7 @@ SteeringMethod: 2
 TurnSpeed: 0.14
 
 Point_1{
-    RPMPower: 0 
+    RPMPower: 0 0
 }
 Point_2{
     RPMPower: 800 0.25
