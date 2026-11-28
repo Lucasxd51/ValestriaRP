@@ -57,15 +57,15 @@ Wheel_RearRight{
     DrivingWheel: True
 }
 Seat_Driver{
-    Position: 0.6 -1.975 1.5
+    Position: 0.6 -1.975 1
     Driver: True
 }
 Seat_PassengerFront{
-    Position: -0.6 -1.975 1.5
+    Position: -0.6 -1.975 1
     Driver: False
 }
 Seat_PassengerCrew{
-    Position: 0 -1.975 1.5
+    Position: 0 -1.975 1
     Driver: False
 }
 SteeringWheel{
