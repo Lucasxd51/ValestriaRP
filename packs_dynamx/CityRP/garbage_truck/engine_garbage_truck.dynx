@@ -1,7 +1,7 @@
 // engine_garbage_truck.dynx - valeurs Lucas (tuning)
-Power: 2500
+Power: 4000
 MaxRPM: 3500
-Braking: 1
+Braking: 5
 TurnSpeed: 0.05
 Point_0{
     RPMPower: 800 0.6
@@ -25,17 +25,17 @@ Gear_1{
 }
 Gear_2{
     SpeedRange: 0 30
-    RPMRange: 900 2800
+    RPMRange: 900 3000
 }
 Gear_3{
     SpeedRange: 25 55
-    RPMRange: 1900 3300
+    RPMRange: 2300 3400
 }
 Gear_4{
     SpeedRange: 50 80
-    RPMRange: 2000 3500
+    RPMRange: 2400 3500
 }
 Gear_5{
     SpeedRange: 75 105
-    RPMRange: 2100 3500
+    RPMRange: 2500 3500
 }
