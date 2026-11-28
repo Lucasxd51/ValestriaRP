@@ -1,0 +1,76 @@
+// vehicle_police_clio.dynx - Clio police (recrues) - positions format Blender (X, avant=-Y, Z haut)
+Name: Police Clio (Recrue)
+Description: Petite citadine de police pour les recrues (cityRP)
+Model: obj/police_clio/police_clio.obj
+DefaultEngine: CityRP.engine_police_clio
+DefaultSounds: CityRP.sounds_police_clio
+EmptyMass: 1100
+DragCoefficient: 0.3
+LinearDamping: 0.1
+CenterOfGravityOffset: 0 0.45 0
+UseComplexCollisions: false
+ItemScale: 0.25
+DefaultZoomLevel: 6
+
+Shape_Body{
+    Position: 0 0 0.625
+    Scale: 0.85 2.05 0.325
+}
+Shape_Cabin{
+    Position: 0 0.425 1.185
+    Scale: 0.78 1.325 0.235
+}
+Wheel_FrontLeft{
+    AttachedWheel: CityRP.wheel_police_clio
+    IsRight: false
+    Position: 0.78 -1.25 0.42
+    IsSteerable: True
+    MaxTurn: 0.5
+    DrivingWheel: True
+}
+Wheel_FrontRight{
+    AttachedWheel: CityRP.wheel_police_clio
+    IsRight: true
+    Position: -0.78 -1.25 0.42
+    IsSteerable: True
+    MaxTurn: 0.5
+    DrivingWheel: True
+}
+Wheel_RearLeft{
+    AttachedWheel: CityRP.wheel_police_clio
+    IsRight: false
+    Position: 0.78 1.35 0.42
+    IsSteerable: False
+    MaxTurn: 0.5
+    DrivingWheel: False
+    HandBrakingWheel: True
+}
+Wheel_RearRight{
+    AttachedWheel: CityRP.wheel_police_clio
+    IsRight: true
+    Position: -0.78 1.35 0.42
+    IsSteerable: False
+    MaxTurn: 0.5
+    DrivingWheel: False
+    HandBrakingWheel: True
+}
+Seat_Driver{
+    Position: 0.38 -0.25 0.5
+    Driver: True
+}
+Seat_PassengerFront{
+    Position: -0.38 -0.25 0.5
+    Driver: False
+}
+Seat_RearLeft{
+    Position: 0.38 0.62 0.5
+    Driver: False
+}
+Seat_RearRight{
+    Position: -0.38 0.62 0.5
+    Driver: False
+}
+SteeringWheel{
+    PartName: steering_wheel
+    Position: 0.38 -0.45 0.86
+}

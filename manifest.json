@@ -109,6 +109,36 @@
       "sha256": "160869fadbb46ee47534e2824e8fb2e607d0d2cea81e8fd5a43fd9b31469c410"
     },
     {
+      "name": "CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.mtl",
+      "sha256": "754422a8ee49c1d1d609071c4cb21e43304df03ac67b9d6467374d075e39226a"
+    },
+    {
+      "name": "CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.obj",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.obj",
+      "sha256": "1f5d2ab93256f517034a591504b14d537ea959b09a0f51643cc5e7a719e6fbd5"
+    },
+    {
+      "name": "CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.png",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/police_clio/police_clio.png",
+      "sha256": "c932a92d4c23213e531f5d7396c0dd046ece30d990beebb4034db554ab0c4cc7"
+    },
+    {
+      "name": "CityRP/assets/dynamxmod/models/obj/police_clio/police_clio_wheel.mtl",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/police_clio/police_clio_wheel.mtl",
+      "sha256": "754422a8ee49c1d1d609071c4cb21e43304df03ac67b9d6467374d075e39226a"
+    },
+    {
+      "name": "CityRP/assets/dynamxmod/models/obj/police_clio/police_clio_wheel.obj",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/police_clio/police_clio_wheel.obj",
+      "sha256": "e63a22a7d4117a6570d1bb8746bdda2ca34cb7005e31303807b46cecc383acc1"
+    },
+    {
       "name": "CityRP/garbage_truck/engine_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/engine_garbage_truck.dynx",
@@ -137,6 +167,30 @@
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/pack_info.dynx",
       "sha256": "f2de57e119684da772e6efb976a9a21f60a2f96c0b2e30c1e65e029a1e03a636"
+    },
+    {
+      "name": "CityRP/police_clio/engine_police_clio.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/police_clio/engine_police_clio.dynx",
+      "sha256": "4ed30012f0937c34cfa8bb6546c91d62a3804579fa5757514a3008bb5dfeb269"
+    },
+    {
+      "name": "CityRP/police_clio/sounds_police_clio.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/police_clio/sounds_police_clio.dynx",
+      "sha256": "10d17b7b8414d58b040484706311818457f30e5072f047fa0c0ee574340fd774"
+    },
+    {
+      "name": "CityRP/police_clio/vehicle_police_clio.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/police_clio/vehicle_police_clio.dynx",
+      "sha256": "ac36a453823a7f88d304791f792e50aeab05acacd9de9fa14545bec631e87299"
+    },
+    {
+      "name": "CityRP/police_clio/wheel_police_clio.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/police_clio/wheel_police_clio.dynx",
+      "sha256": "823500ca684ca08fe78990eeccd2607d21accaeb7a2aa7c4336ee6b695c18694"
     },
     {
       "name": "MercedesVito2010_Mine3DModel/assets/dynamxmod/lang/en_US.lang",

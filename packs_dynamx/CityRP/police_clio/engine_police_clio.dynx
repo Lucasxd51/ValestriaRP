@@ -1,0 +1,44 @@
+// engine_police_clio.dynx - petite citadine (valeurs de depart, a regler au prompt physique)
+Power: 1500
+MaxRPM: 6000
+Braking: 5
+TurnSpeed: 0.06
+Point_0{
+    RPMPower: 800 0.5
+}
+Point_1{
+    RPMPower: 2000 0.8
+}
+Point_2{
+    RPMPower: 3500 1.0
+}
+Point_3{
+    RPMPower: 5000 1.0
+}
+Point_4{
+    RPMPower: 6100 0.8
+}
+Gear_0{
+    SpeedRange: 0 -15
+    RPMRange: 800 5000
+}
+Gear_1{
+    SpeedRange: -1000000 1000000
+    RPMRange: 0 6000
+}
+Gear_2{
+    SpeedRange: 0 30
+    RPMRange: 900 4800
+}
+Gear_3{
+    SpeedRange: 25 55
+    RPMRange: 3000 5200
+}
+Gear_4{
+    SpeedRange: 50 80
+    RPMRange: 3500 5500
+}
+Gear_5{
+    SpeedRange: 75 110
+    RPMRange: 4000 6000
+}

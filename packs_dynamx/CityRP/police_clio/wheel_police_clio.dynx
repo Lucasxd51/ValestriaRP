@@ -1,0 +1,13 @@
+// wheel_police_clio.dynx
+Model: obj/police_clio/police_clio_wheel.obj
+Radius: 0.3
+RimRadius: 0.19
+Width: 0.2
+BrakeForce: 400
+Friction: 1.5
+RollInInfluence: 1
+SuspensionMaxForce: 10000
+SuspensionRestLength: 0.1
+SuspensionStiffness: 45
+WheelDampingRelaxation: 0.45
+WheelsDampingCompression: 0.22
