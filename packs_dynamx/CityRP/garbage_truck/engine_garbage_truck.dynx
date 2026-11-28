@@ -1,18 +1,19 @@
-// engine_garbage_truck.dynx - PLACEHOLDER (prompt 2)
-Power: 120
-Braking: 40
+Power: 1250
 MaxRPM: 3500
+Braking: 40
+TurnSpeed: 0.30
+
 Point_0{
-    RPMPower: 800 0.5
+    RPMPower: 0
 }
 Point_1{
-    RPMPower: 1500 0.9
+    RPMPower: 850 0.20
 }
 Point_2{
-    RPMPower: 2500 1.0
+    RPMPower: 1750 0.25
 }
 Point_3{
-    RPMPower: 3600 0.6
+    RPMPower: 3500 0.30
 }
 Gear_0{
     SpeedRange: 0 -20
