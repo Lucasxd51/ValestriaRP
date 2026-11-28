@@ -7,7 +7,7 @@ DefaultSounds: CityRP.sounds_garbage_truck
 // --- placeholders physique (prompt 2) ---
 EmptyMass: 4000
 DragCoefficient: 0.3
-LinearDamping: 0.2
+LinearDamping: 0.1
 CenterOfGravityOffset: 0 0.9 -0.4
 UseComplexCollisions: false
 ItemScale: 0.12

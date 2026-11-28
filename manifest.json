@@ -112,7 +112,7 @@
       "name": "CityRP/garbage_truck/engine_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/engine_garbage_truck.dynx",
-      "sha256": "b451bf62c04042c91c1754212dc99093fa678a2eadfc5766bc91af4b584ed99b"
+      "sha256": "4653dea5730cefda4711ff6e9d20db2fd3d5db2a5bfe5d73f16141f87a5ef9f4"
     },
     {
       "name": "CityRP/garbage_truck/sounds_garbage_truck.dynx",
@@ -124,7 +124,7 @@
       "name": "CityRP/garbage_truck/vehicle_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/vehicle_garbage_truck.dynx",
-      "sha256": "5c1583164a3468e50af93208765e8764a8393d226e944b363c098b717bb4c0ac"
+      "sha256": "58a011bc9e8d365d8ed3725cb3a37186d4c07ddf1db4cf087d0ce81b892d3382"
     },
     {
       "name": "CityRP/garbage_truck/wheel_garbage_truck.dynx",

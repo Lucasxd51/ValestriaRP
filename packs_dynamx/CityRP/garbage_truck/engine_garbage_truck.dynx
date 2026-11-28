@@ -1,7 +1,7 @@
 // engine_garbage_truck.dynx - valeurs Lucas (tuning)
 Power: 2500
 MaxRPM: 3500
-Braking: 5
+Braking: 3
 TurnSpeed: 0.05
 Point_0{
     RPMPower: 800 0.6
