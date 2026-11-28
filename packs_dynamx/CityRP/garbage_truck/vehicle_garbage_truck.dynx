@@ -4,7 +4,6 @@ Description: Camion poubelle RP (cityRP)
 Model: obj/garbage_truck/garbage_truck.obj
 DefaultEngine: CityRP.engine_garbage_truck
 DefaultSounds: CityRP.sounds_garbage_truck
-DefaultZoomLevel: 8
 // --- placeholders physique (prompt 2) ---
 EmptyMass: 4000
 DragCoefficient: 0.3
@@ -28,7 +27,7 @@ Shape_Base{
 Wheel_FrontLeft{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: false
-    Position: 1.2 -2.35 0.55
+    Position: 1.1 -2.35 0.55
     IsSteerable: True
     MaxTurn: 0.45
     DrivingWheel: False
@@ -36,7 +35,7 @@ Wheel_FrontLeft{
 Wheel_FrontRight{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: true
-    Position: -1.2 -2.35 0.55
+    Position: -1.1 -2.35 0.55
     IsSteerable: True
     MaxTurn: 0.45
     DrivingWheel: False
@@ -44,7 +43,7 @@ Wheel_FrontRight{
 Wheel_RearLeft{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: false
-    Position: 1.2 1.6 0.55
+    Position: 1.1 1.6 0.55
     IsSteerable: False
     MaxTurn: 0.45
     DrivingWheel: True
@@ -52,21 +51,21 @@ Wheel_RearLeft{
 Wheel_RearRight{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: true
-    Position: -1.2 1.6 0.55
+    Position: -1.1 1.6 0.55
     IsSteerable: False
     MaxTurn: 0.45
     DrivingWheel: True
 }
 Seat_Driver{
-    Position: 0.6 -1.975 0.7
+    Position: 0.6 -1.975 1.5
     Driver: True
 }
 Seat_PassengerFront{
-    Position: -0.6 -1.975 0.7
+    Position: -0.6 -1.975 1.5
     Driver: False
 }
 Seat_PassengerCrew{
-    Position: 0 -1.975 0.7
+    Position: 0 -1.975 1.5
     Driver: False
 }
 SteeringWheel{
