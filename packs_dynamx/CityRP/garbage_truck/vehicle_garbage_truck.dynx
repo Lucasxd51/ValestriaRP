@@ -3,6 +3,7 @@ Name: Garbage Truck
 Description: Camion poubelle RP (cityRP)
 Model: obj/garbage_truck/garbage_truck.obj
 DefaultEngine: CityRP.engine_garbage_truck
+DefaultSounds: CityRP.sounds_garbage_truck
 // --- placeholders physique (prompt 2) ---
 EmptyMass: 4000
 DragCoefficient: 0.3

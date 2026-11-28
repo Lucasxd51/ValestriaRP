@@ -112,13 +112,19 @@
       "name": "CityRP/garbage_truck/engine_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/engine_garbage_truck.dynx",
-      "sha256": "9d1ebcdfae5ca0f4b55a69979fd808e8760bb1daae693dfbc1e489a3bd80e296"
+      "sha256": "09b5c3161e430cdc81648b96152ba5f79a8fdeca2c57ab0754582d4efb4b374e"
+    },
+    {
+      "name": "CityRP/garbage_truck/sounds_garbage_truck.dynx",
+      "dir": "DynamX",
+      "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/sounds_garbage_truck.dynx",
+      "sha256": "2f1cc4e94701fa972b017796c141ab5f027169f8eda75ebd07852184fdba21c6"
     },
     {
       "name": "CityRP/garbage_truck/vehicle_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/vehicle_garbage_truck.dynx",
-      "sha256": "c4aa3998a1cc481b37e5598102e6f435980bb9b23eae2942767c5d6020cf6b55"
+      "sha256": "5c1583164a3468e50af93208765e8764a8393d226e944b363c098b717bb4c0ac"
     },
     {
       "name": "CityRP/garbage_truck/wheel_garbage_truck.dynx",
