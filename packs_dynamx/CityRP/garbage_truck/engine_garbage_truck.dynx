@@ -1,6 +1,6 @@
 Power: 1250
 MaxRPM: 3500
-Braking: 20
+Braking: 5
 Point_0{
     SpeedRange: 
     RPMPower: 800 0.5
@@ -24,13 +24,17 @@ Gear_1{
 }
 Gear_2{
     SpeedRange: 0 25
-    RPMRange: 800 2500
+    RPMRange: 900 2500
 }
 Gear_3{
     SpeedRange: 20 45
-    RPMRange: 900 2500
+    RPMRange: 1150 300
 }
 Gear_4{
     SpeedRange: 40 70
-    RPMRange: 900 3500
+    RPMRange: 1200 3500
+}
+Gear_5{
+    SpeedRange: 70 95
+    RPMRange: 1250 3500
 }
