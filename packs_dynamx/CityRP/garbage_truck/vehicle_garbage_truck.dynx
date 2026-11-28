@@ -27,7 +27,7 @@ Shape_Base{
 Wheel_FrontLeft{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: false
-    Position: 1.1 -2.35 0.55
+    Position: 1.1 -2.35 0.8
     IsSteerable: True
     MaxTurn: 0.45
     DrivingWheel: False
@@ -35,7 +35,7 @@ Wheel_FrontLeft{
 Wheel_FrontRight{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: true
-    Position: -1.1 -2.35 0.55
+    Position: -1.1 -2.35 0.8
     IsSteerable: True
     MaxTurn: 0.45
     DrivingWheel: False
@@ -43,7 +43,7 @@ Wheel_FrontRight{
 Wheel_RearLeft{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: false
-    Position: 1.1 1.6 0.55
+    Position: 1.1 1.6 0.8
     IsSteerable: False
     MaxTurn: 0.45
     DrivingWheel: True
@@ -51,7 +51,7 @@ Wheel_RearLeft{
 Wheel_RearRight{
     AttachedWheel: CityRP.wheel_garbage_truck
     IsRight: true
-    Position: -1.1 1.6 0.55
+    Position: -1.1 1.6 0.8
     IsSteerable: False
     MaxTurn: 0.45
     DrivingWheel: True
