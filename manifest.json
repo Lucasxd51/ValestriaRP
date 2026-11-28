@@ -82,13 +82,13 @@
       "name": "CityRP/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.mtl",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.mtl",
-      "sha256": "605fc85be0c1e185c92e53d8f62217707efcb8d4e2c64f9941f324fdb3d8eae5"
+      "sha256": "7e9cc0ae8d8f8dc322357aa9b340db46ed9d6004eb1c37017d7b479e1fa7824c"
     },
     {
       "name": "CityRP/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.obj",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.obj",
-      "sha256": "b5cc936187c4d07561a34634c7848bda6f255015b7997158864d1b875979719d"
+      "sha256": "68a1e43679e9df91cd88ea71d353e71e87d5ffb3339f6163bad21363ec551e6b"
     },
     {
       "name": "CityRP/assets/dynamxmod/models/obj/garbage_truck/garbage_truck.png",
@@ -124,7 +124,7 @@
       "name": "CityRP/garbage_truck/vehicle_garbage_truck.dynx",
       "dir": "DynamX",
       "url": "https://raw.githubusercontent.com/Lucasxd51/ValestriaRP/main/packs_dynamx/CityRP/garbage_truck/vehicle_garbage_truck.dynx",
-      "sha256": "a62424952b912eb7058529d708e36bd3bb4f242312ac24507bfcfa7643a8f6aa"
+      "sha256": "056bb694f182c41179c054b84ebf8553b49ab4dfd4259fa98691dc4845cb8add"
     },
     {
       "name": "CityRP/garbage_truck/wheel_garbage_truck.dynx",

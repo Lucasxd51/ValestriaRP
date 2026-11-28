@@ -1,7 +1,4 @@
-newmtl atlas
-Ka 1 1 1
-Kd 1 1 1
-Ks 0 0 0
-d 1
-illum 1
+# Made in Blockbench 5.2.2
+newmtl m_ac5b7ccb-3ec0-ca3b-03ab-37d8fc87cd63
 map_Kd garbage_truck.png
+newmtl none
