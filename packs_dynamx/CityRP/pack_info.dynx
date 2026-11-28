@@ -1,0 +1,4 @@
+PackName: CityRP
+PackVersion: 1.0.0
+DcFileVersion: 12.5.0
+CompatibleWithLoaderVersions: [1.1.0,)

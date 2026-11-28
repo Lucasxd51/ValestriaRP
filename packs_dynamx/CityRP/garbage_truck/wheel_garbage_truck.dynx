@@ -1,0 +1,13 @@
+// wheel_garbage_truck.dynx - valeurs conseillees par la doc, a regler au prompt 2
+Model: obj/garbage_truck/garbage_truck_wheel.obj
+Radius: 0.55
+RimRadius: 0.33
+Width: 0.46
+BrakeForce: 1000
+Friction: 1.5
+RollInInfluence: 1
+SuspensionMaxForce: 30000
+SuspensionRestLength: 0.2
+SuspensionStiffness: 45
+WheelDampingRelaxation: 0.45
+WheelsDampingCompression: 0.22

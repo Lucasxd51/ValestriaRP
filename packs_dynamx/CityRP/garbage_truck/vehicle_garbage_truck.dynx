@@ -1,0 +1,72 @@
+// vehicle_garbage_truck.dynx - positions au format Blender (X, Y avant=-Y, Z haut)
+Name: Garbage Truck
+Description: Camion poubelle RP (cityRP)
+Model: obj/garbage_truck/garbage_truck.obj
+DefaultEngine: CityRP.engine_garbage_truck
+// --- placeholders physique (prompt 2) ---
+EmptyMass: 4000
+DragCoefficient: 0.6
+CenterOfGravityOffset: 0 0.9 -0.4
+UseComplexCollisions: false
+ItemScale: 0.12
+
+Shape_Benne{
+    Position: 0 1.5 2.1
+    Scale: 2.5 4.9 1.9
+}
+Shape_Cabine{
+    Position: 0 -2.35 2.125
+    Scale: 2.5 2.5 1.95
+}
+Shape_Base{
+    Position: 0 0.2 0.775
+    Scale: 1.7 7.6 0.75
+}
+Wheel_FrontLeft{
+    AttachedWheel: CityRP.wheel_garbage_truck
+    IsRight: false
+    Position: 1.2 -2.35 0.55
+    IsSteerable: True
+    MaxTurn: 0.7
+    DrivingWheel: False
+}
+Wheel_FrontRight{
+    AttachedWheel: CityRP.wheel_garbage_truck
+    IsRight: true
+    Position: -1.2 -2.35 0.55
+    IsSteerable: True
+    MaxTurn: 0.7
+    DrivingWheel: False
+}
+Wheel_RearLeft{
+    AttachedWheel: CityRP.wheel_garbage_truck
+    IsRight: false
+    Position: 1.2 1.6 0.55
+    IsSteerable: False
+    MaxTurn: 0.7
+    DrivingWheel: True
+}
+Wheel_RearRight{
+    AttachedWheel: CityRP.wheel_garbage_truck
+    IsRight: true
+    Position: -1.2 1.6 0.55
+    IsSteerable: False
+    MaxTurn: 0.7
+    DrivingWheel: True
+}
+Seat_Driver{
+    Position: 0.6 -1.975 1.5
+    Driver: True
+}
+Seat_PassengerFront{
+    Position: -0.6 -1.975 1.5
+    Driver: False
+}
+Seat_PassengerCrew{
+    Position: 0 -1.975 1.5
+    Driver: False
+}
+SteeringWheel{
+    PartName: steering_wheel
+    Position: 0.6 -2.68 2.05
+}
